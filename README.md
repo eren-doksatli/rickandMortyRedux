@@ -1,6 +1,6 @@
 # Rick and Morty Redux App
 
-## Teck Stack
+## Tech Stack
 
 - React Redux
 - Redux
